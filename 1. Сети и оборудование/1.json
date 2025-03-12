@@ -1,0 +1,1353 @@
+[
+    {
+        "title": "Digital design and computer architecture",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=muCcBAAAQBAJ&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=tvkZqK_4Ac&sig=DeSork0KIIv0xsX4UqTtZgcDNoo",
+        "authors": [
+            "S Harris",
+            "D Harris"
+        ],
+        "citations": 1337,
+        "year": 2015,
+        "source": "Elsevier"
+    },
+    {
+        "title": "Computers as components: principles of embedded computing system design",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=ZwSgRh5qtQ4C&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=qXJkoSwwUV&sig=XC1B31m5njWguUhvul6uBBru5yU",
+        "authors": [
+            "M Wolf"
+        ],
+        "citations": 902,
+        "year": 2012,
+        "source": "Elsevier"
+    },
+    {
+        "title": "Architectural considerations involved in the design of an optical digital computer",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1457206/",
+        "authors": [
+            "A Huang"
+        ],
+        "citations": 273,
+        "year": 1984,
+        "source": "Proceedings of the IEEE"
+    },
+    {
+        "title": "Computer Engineering: A DEC View of Hardware Systems Design",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=SDOoBQAAQBAJ&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=qtL1yI2zQx&sig=lomz5SnDTNXVKEJ91zTqkFr-CyM",
+        "authors": [
+            "CG Bell",
+            "JC Mudge",
+            "JE McNamara"
+        ],
+        "citations": 186,
+        "year": 2014,
+        "source": "Digital Equipment Corporation"
+    },
+    {
+        "title": "Logic and computer design fundamentals",
+        "url": "https://repositories.nust.edu.pk/xmlui/bitstream/handle/123456789/38180/MCS37497-%20Logic%20and%20computer%20design%20fundamentals%20by%20%20M.%20Morris%20Mano%2C%202016..pdf?sequence=1&isAllowed=y",
+        "authors": [
+            "MM Mano",
+            "K Charles R",
+            "M Tom"
+        ],
+        "citations": 769,
+        "year": 2016,
+        "source": "Pearson Education Limited"
+    },
+    {
+        "title": "Digital systems design with FPGAs and CPLDs",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=vggmNXdzayYC&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=s8IfbsEYab&sig=mD4PFM6V1t_n_RxX9uSkOClEcbk",
+        "authors": [
+            "I Grout"
+        ],
+        "citations": 314,
+        "year": 2011,
+        "source": "Elsevier"
+    },
+    {
+        "title": "Principles of computer hardware",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=wUecAQAAQBAJ&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=ms0sCWgN-S&sig=nvoQkj56MNzxbAIBr8xKTTpexqo",
+        "authors": [
+            "A Clements"
+        ],
+        "citations": 189,
+        "year": 2006,
+        "source": "Oxford University Press"
+    },
+    {
+        "title": "Reliability of computer systems and networks: fault tolerance, analysis, and design",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=bmy8USdLeTYC&oi=fnd&pg=PR7&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=WDReGkKlSj&sig=kXY2JLAMtW2CaOVk1XeDmM-WJB8",
+        "authors": [
+            "ML Shooman"
+        ],
+        "citations": 941,
+        "year": 2003,
+        "source": "John Wiley & Sons"
+    },
+    {
+        "title": "A new direction for computer architecture research",
+        "url": "https://ieeexplore.ieee.org/abstract/document/730733/",
+        "authors": [
+            "CE Kozyrakis",
+            "DA Patterson"
+        ],
+        "citations": 207,
+        "year": 1998,
+        "source": "Computer"
+    },
+    {
+        "title": "Essentials of Computer Organization and Architecture",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=3kQoAwAAQBAJ&oi=fnd&pg=PR1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=sgjALEs0WP&sig=3Wh_-Yybk3LMYzqwIlZvAy-Xr3E",
+        "authors": [
+            "L Null",
+            "J Lobur"
+        ],
+        "citations": 381,
+        "year": 2014,
+        "source": "Jones & Barlett Learning"
+    },
+    {
+        "title": "A practical introduction to computer architecture",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=XH4sIpY1D70C&oi=fnd&pg=PA3&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=wDw2pLF-au&sig=vnd03LTNlvF3_RR83ihYezaBu7c",
+        "authors": [
+            "D Page"
+        ],
+        "citations": 62,
+        "year": 2009,
+        "source": "Springer"
+    },
+    {
+        "title": "A defect-tolerant computer architecture: Opportunities for nanotechnology",
+        "url": "https://www.science.org/doi/abs/10.1126/science.280.5370.1716",
+        "authors": [
+            "JR Heath",
+            "PJ Kuekes",
+            "GS Snider",
+            "RS Williams"
+        ],
+        "citations": 1203,
+        "year": 1998,
+        "source": "Science"
+    },
+    {
+        "title": "Computer architecture and organisation",
+        "url": "https://gnindia.dronacharya.info/CSE-AI-ML/3rdSem/Downloads/ComputerOrganizationArchitecture/PPT/Computer-Organization-Architecture-Book-3.pdf",
+        "authors": [
+            "JP Hayes"
+        ],
+        "citations": 1081,
+        "year": 2022,
+        "source": "William C Brown Pub"
+    },
+    {
+        "title": "Computer architecture: a quantitative approach",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=gQ-fSqbLfFoC&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=m_vmLMY1sq&sig=p3uYCiSIQM9IAlWQiPyqrzmvybE",
+        "authors": [
+            "JL Hennessy",
+            "DA Patterson"
+        ],
+        "citations": 18981,
+        "year": 2011,
+        "source": "Elsevier"
+    },
+    {
+        "title": "Digital systems design and prototyping using field programmable logic",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=NS7oBwAAQBAJ&oi=fnd&pg=PR14&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=lqrc71wW_k&sig=8rmJkaDH-n3ACSabdXEk3oC18J4",
+        "authors": [
+            "Z Salcic",
+            "A Smailagic"
+        ],
+        "citations": 131,
+        "year": 2012,
+        "source": "Springer"
+    },
+    {
+        "title": "Computer Systems Architecture",
+        "url": "https://www.taylorfrancis.com/books/mono/10.1201/9781315373287/computer-systems-architecture-aharon-yadin",
+        "authors": [
+            "A Yadin"
+        ],
+        "citations": 46,
+        "year": 2016,
+        "source": "Chapman and Hall/CRC"
+    },
+    {
+        "title": "Towards nanocomputer architecture",
+        "url": "https://www.semanticscholar.org/paper/Towards-nanocomputer-architecture-Beckett-Jennings/566f61e81bb2bafad9aac4b294c5ab5e342765d1",
+        "authors": [
+            "P Beckett",
+            "A Jennings"
+        ],
+        "citations": 124,
+        "year": 2002,
+        "source": "Conferences in Research and Practice in Information Technology"
+    },
+    {
+        "title": "Molecular electronics: From devices and interconnect to circuits and architecture",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1240082/",
+        "authors": [
+            "MR Stan",
+            "PD Franzon",
+            "SC Goldstein"
+        ],
+        "citations": 374,
+        "year": 2003,
+        "source": "IEEE"
+    },
+    {
+        "title": "Nanofabrics: Spatial computing using molecular electronics",
+        "url": "https://dl.acm.org/doi/abs/10.1145/384285.379262?casa_token=VmY96d_iUOUAAAAA:yp5WHas9tGcELYj77wfIq55dFHJtY_6MjyGV0hruJucLJUyNA7qiA8Wd3-mYQheCGlDYFwA_xuU",
+        "authors": [
+            "SC Goldstein",
+            "M Budiu"
+        ],
+        "citations": 516,
+        "year": 2001,
+        "source": "ACM SIGARCH Computer Architecture News"
+    },
+    {
+        "title": "Top-down digital VLSI design: from architectures to gate-level circuits and FPGAs",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=PiWOAwAAQBAJ&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=A_VpxxKNvV&sig=7l3Lk8zvgipQUDfkWH-8UK-uZjk",
+        "authors": [
+            "H Kaeslin"
+        ],
+        "citations": 63,
+        "year": 2014,
+        "source": "Elsevier"
+    },
+    {
+        "title": "Essentials of computer architecture",
+        "url": "https://www.taylorfrancis.com/books/mono/10.1201/9781315226262/essentials-computer-architecture-douglas-comer",
+        "authors": [
+            "D Comer"
+        ],
+        "citations": 63,
+        "year": 2017,
+        "source": "Chapman and Hall/CRC"
+    },
+    {
+        "title": "Nanosystems, edge computing, and the next generation computing systems",
+        "url": "https://www.mdpi.com/1424-8220/19/18/4048",
+        "authors": [
+            "A Passian",
+            "N Imam"
+        ],
+        "citations": 50,
+        "year": 2019,
+        "source": "Sensors"
+    },
+    {
+        "title": "Parallel computer architecture: a hardware/software approach",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=MHfHC4Wf3K0C&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=1OIM_82JYO&sig=0SEFetQqoRc1eheORc7zjvp_EX4",
+        "authors": [
+            "D Culler",
+            "JP Singh",
+            "A Gupta"
+        ],
+        "citations": 3025,
+        "year": 1999,
+        "source": "Morgan Kaufmann Publishers"
+    },
+    {
+        "title": "Carbon nanotube computer",
+        "url": "https://www.nature.com/articles/nature12502",
+        "authors": [
+            "MM Shulaker",
+            "G Hills",
+            "N Patil",
+            "H Wei",
+            "HY Chen"
+        ],
+        "citations": 1204,
+        "year": 2013,
+        "source": "Nature"
+    },
+    {
+        "title": "Chaos computing: implementation of fundamental logical gates by chaotic elements",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1046831/",
+        "authors": [
+            "T Munakata",
+            "S Sinha",
+            "WL Ditto"
+        ],
+        "citations": 143,
+        "year": 2002,
+        "source": "IEEE"
+    },
+    {
+        "title": "Practical implementation of memristor-based threshold logic gates",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8672912/",
+        "authors": [
+            "G Papandroulidakis",
+            "A Serb",
+            "A Khiat"
+        ],
+        "citations": 58,
+        "year": 2019,
+        "source": "IEEE"
+    },
+    {
+        "title": "Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V architectures and the design of smartphones, PCs, and cloud servers",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=BxptEAAAQBAJ&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=Tf1u-32OhD&sig=tGkGOVkSVAO8VaQEi7eNho68AZc",
+        "authors": [
+            "J Ledin",
+            "D Farley"
+        ],
+        "citations": 45,
+        "year": 2022,
+        "source": "Packt Publishing"
+    },
+    {
+        "title": "Electronic design automation: synthesis, verification, and test",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=3XBe7dLb5NEC&oi=fnd&pg=PP1&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=HK1mBLkFCK&sig=4EySF2RBbkP6CxE7YinihHIPCIE",
+        "authors": [
+            "LT Wang",
+            "YW Chang",
+            "KTT Cheng"
+        ],
+        "citations": 377,
+        "year": 2009,
+        "source": "Elsevier"
+    },
+    {
+        "title": "Electronic-photonic arithmetic logic unit for high-speed computing",
+        "url": "https://www.nature.com/articles/s41467-020-16057-3",
+        "authors": [
+            "Z Ying",
+            "C Feng",
+            "Z Zhao",
+            "S Dhar",
+            "H Dalir",
+            "J Gu"
+        ],
+        "citations": 141,
+        "year": 2020,
+        "source": "Nature Communications"
+    },
+    {
+        "title": "Logic gates based on neuristors made from two-dimensional materials",
+        "url": "https://www.nature.com/articles/s41928-021-00591-z",
+        "authors": [
+            "H Chen",
+            "X Xue",
+            "C Liu",
+            "J Fang",
+            "Z Wang",
+            "J Wang"
+        ],
+        "citations": 135,
+        "year": 2021,
+        "source": "Nature Electronics"
+    },
+    {
+        "title": "Dual-ferroelectric-coupling-engineered two-dimensional transistors for multifunctional in-memory computing",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsnano.2c00079",
+        "authors": [
+            "ZD Luo",
+            "S Zhang",
+            "Y Liu",
+            "D Zhang",
+            "X Gan",
+            "J Seidel"
+        ],
+        "citations": 73,
+        "year": 2022,
+        "source": "ACS Nano"
+    },
+    {
+        "title": "A system architecture solution for unreliable nanoelectronic devices",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1176965/",
+        "authors": [
+            "J Han",
+            "P Jonker"
+        ],
+        "citations": 250,
+        "year": 2002,
+        "source": "IEEE Transactions on Nanotechnology"
+    },
+    {
+        "title": "Micropneumatic digital logic structures for integrated microdevice computation and control",
+        "url": "https://ieeexplore.ieee.org/abstract/document/4380307/",
+        "authors": [
+            "EC Jensen",
+            "WH Grover"
+        ],
+        "citations": 87,
+        "year": 2007,
+        "source": "IEEE"
+    },
+    {
+        "title": "Digital optical computing",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1457205/",
+        "authors": [
+            "AA Sawchuk",
+            "TC Strand"
+        ],
+        "citations": 448,
+        "year": 1984,
+        "source": "Proceedings of the IEEE"
+    },
+    {
+        "title": "Nanocell logic gates for molecular computing",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1049647/",
+        "authors": [
+            "JM Tour",
+            "WL Van Zandt",
+            "CP Husband"
+        ],
+        "citations": 220,
+        "year": 2002,
+        "source": "IEEE"
+    },
+    {
+        "title": "An analog neural network computing engine using CMOS-compatible charge-trap-transistor (CTT)",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8418745/",
+        "authors": [
+            "Y Du",
+            "L Du",
+            "X Gu",
+            "J Du",
+            "XS Wang",
+            "B Hu"
+        ],
+        "citations": 59,
+        "year": 2018,
+        "source": "IEEE"
+    },
+    {
+        "title": "Mechanical computing",
+        "url": "https://www.nature.com/articles/s41586-021-03623-y",
+        "authors": [
+            "H Yasuda",
+            "PR Buskohl",
+            "A Gillman",
+            "TD Murphey"
+        ],
+        "citations": 216,
+        "year": 2021,
+        "source": "Nature"
+    },
+    {
+        "title": "Two-dimensional materials for next-generation computing technologies",
+        "url": "https://www.nature.com/articles/s41565-020-0724-3",
+        "authors": [
+            "C Liu",
+            "H Chen",
+            "S Wang",
+            "Q Liu",
+            "YG Jiang"
+        ],
+        "citations": 820,
+        "year": 2020,
+        "source": "Nature Nanotechnology"
+    },
+    {
+        "title": "Efficient CNTFET-based design of quaternary logic gates and arithmetic circuits",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0026269216300350",
+        "authors": [
+            "SA Ebrahimi",
+            "MR Reshadinezhad",
+            "A Bohlooli"
+        ],
+        "citations": 88,
+        "year": 2016,
+        "source": "Microelectronics Journal"
+    },
+    {
+        "title": "Limits on fundamental limits to computation",
+        "url": "https://www.nature.com/articles/nature13570",
+        "authors": [
+            "IL Markov"
+        ],
+        "citations": 588,
+        "year": 2014,
+        "source": "Nature"
+    },
+    {
+        "title": "An industrial view of electronic design automation",
+        "url": "https://ieeexplore.ieee.org/abstract/document/898825/",
+        "authors": [
+            "D MacMillen",
+            "R Camposano",
+            "D Hill"
+        ],
+        "citations": 158,
+        "year": 2000,
+        "source": "IEEE"
+    },
+    {
+        "title": "Optical computing: Status and perspectives",
+        "url": "https://www.mdpi.com/2079-4991/12/13/2171",
+        "authors": [
+            "NL Kazanskiy",
+            "MA Butt",
+            "SN Khonina"
+        ],
+        "citations": 82,
+        "year": 2022,
+        "source": "Nanomaterials"
+    },
+    {
+        "title": "Logic computing with stateful neural networks of resistive switches",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201802554?casa_token=yyNu1KSZyWcAAAAA:pcWQmp_SOLssRVerVlm1Ma4y39Y1NUeF3CyqXaRUzl2MmDMDzAQ-GD0RtvyxdFDFORs9DrzK0164eQ",
+        "authors": [
+            "Z Sun",
+            "E Ambrosi",
+            "A Bricalli",
+            "D Ielmini"
+        ],
+        "citations": 157,
+        "year": 2018,
+        "source": "Advanced Materials"
+    },
+    {
+        "title": "CNTFET-based design of ternary logic gates and arithmetic circuits",
+        "url": "https://ieeexplore.ieee.org/abstract/document/5340626/",
+        "authors": [
+            "S Lin",
+            "YB Kim",
+            "F Lombardi"
+        ],
+        "citations": 690,
+        "year": 2009,
+        "source": "IEEE"
+    },
+    {
+        "title": "Quantum-dot cellular automata based digital logic circuits: a design perspective",
+        "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-1823-2.pdf",
+        "authors": [
+            "TN Sasamal",
+            "AK Singh",
+            "A Mohan"
+        ],
+        "citations": 46,
+        "year": 2020,
+        "source": "Springer"
+    },
+    {
+        "title": "Computing with ferroelectric FETs: Devices, models, systems, and applications",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8342213/",
+        "authors": [
+            "A Aziz",
+            "ET Breyer",
+            "A Chen",
+            "X Chen"
+        ],
+        "citations": 89,
+        "year": 2018,
+        "source": "IEEE"
+    },
+    {
+        "title": "The end of moore's law: A new beginning for information technology",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7878935/",
+        "authors": [
+            "TN Theis",
+            "HSP Wong"
+        ],
+        "citations": 1167,
+        "year": 2017,
+        "source": "Computing in science & engineering"
+    },
+    {
+        "title": "Challenges and trends of SRAM-based computing-in-memory for AI edge devices",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9382915/",
+        "authors": [
+            "CJ Jhang",
+            "CX Xue",
+            "JM Hung"
+        ],
+        "citations": 210,
+        "year": 2021,
+        "source": "IEEE"
+    },
+    {
+        "title": "Hybrid architecture based on two-dimensional memristor crossbar array and CMOS integrated circuit for edge computing",
+        "url": "https://www.nature.com/articles/s41699-021-00284-3",
+        "authors": [
+            "P Kumar",
+            "K Zhu",
+            "X Gao",
+            "SD Wang",
+            "M Lanza"
+        ],
+        "citations": 43,
+        "year": 2022,
+        "source": "Nature"
+    },
+    {
+        "title": "NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8246561/",
+        "authors": [
+            "PY Chen",
+            "X Peng",
+            "S Yu"
+        ],
+        "citations": 556,
+        "year": 2018,
+        "source": "IEEE"
+    },
+    {
+        "title": "Threshold logic computing: Memristive-cmos circuits for fast fourier transform and vedic multiplication",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7001253/",
+        "authors": [
+            "AP James",
+            "DS Kumar",
+            "A Ajayan"
+        ],
+        "citations": 55,
+        "year": 2015,
+        "source": "IEEE"
+    },
+    {
+        "title": "Memristive, Spintronic, and 2D-Materials-Based Devices to Improve and Complement Computing Hardware",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202200068",
+        "authors": [
+            "D Joksas",
+            "AA AlMutairi",
+            "O Lee"
+        ],
+        "citations": 32,
+        "year": 2022,
+        "source": "Advanced Intelligent Systems"
+    },
+    {
+        "title": "Low-power CMOS digital design",
+        "url": "https://search.ieice.org/bin/summary.php?id=e75-c_4_371",
+        "authors": [
+            "AP Chandrakasan",
+            "S Sheng"
+        ],
+        "citations": 5817,
+        "year": 1992,
+        "source": "IEICE TRANSACTIONS on Electronics"
+    },
+    {
+        "title": "Device and architecture outlook for beyond CMOS switches",
+        "url": "https://ieeexplore.ieee.org/abstract/document/5593862/",
+        "authors": [
+            "K Bernstein",
+            "RK Cavin",
+            "W Porod"
+        ],
+        "citations": 384,
+        "year": 2010,
+        "source": "IEEE"
+    },
+    {
+        "title": "Truenorth: Design and tool flow of a 65 mw 1 million neuron programmable neurosynaptic chip",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7229264/",
+        "authors": [
+            "F Akopyan",
+            "J Sawada",
+            "A Cassidy"
+        ],
+        "citations": 1763,
+        "year": 2015,
+        "source": "IEEE"
+    },
+    {
+        "title": "A survey of memristive threshold logic circuits",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7464347/",
+        "authors": [
+            "AK Maan",
+            "DA Jayadevi"
+        ],
+        "citations": 166,
+        "year": 2016,
+        "source": "IEEE"
+    },
+    {
+        "title": "In-memory computing with resistive switching devices",
+        "url": "https://www.nature.com/articles/s41928-018-0092-2",
+        "authors": [
+            "D Ielmini",
+            "HSP Wong"
+        ],
+        "citations": 1882,
+        "year": 2018,
+        "source": "Nature electronics"
+    },
+    {
+        "title": "Memristors for energy-efficient new computing paradigms",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aelm.201600090?casa_token=5eRL323U9FMAAAAA:Sh9LMt_RL9IEYg-srfZ-3CmFfb8pUsh58zDpodzWtE1WNWroV4rg-00b-T-QT_YJZ3bnMwNRZbNWOQ",
+        "authors": [
+            "DS Jeong",
+            "KM Kim",
+            "S Kim",
+            "BJ Choi"
+        ],
+        "citations": 425,
+        "year": 2016,
+        "source": "Advanced Electronic Materials"
+    },
+    {
+        "title": "The future of computing beyond Moore's Law",
+        "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2019.0061",
+        "authors": [
+            "J Shalf"
+        ],
+        "citations": 653,
+        "year": 2020,
+        "source": "Philosophical Transactions of the Royal Society A MATHEMATICAL, PHYSICAL AND ENGINEERING SCIENCES"
+    },
+    {
+        "title": "Research progress on memristor: From synapses to computing systems",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9738847/",
+        "authors": [
+            "X Yang",
+            "B Taylor",
+            "A Wu",
+            "Y Chen"
+        ],
+        "citations": 126,
+        "year": 2022,
+        "source": "IEEE"
+    },
+    {
+        "title": "Computing with subthreshold leakage: device/circuit/architecture co-design for ultralow-power subthreshold operation",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1564075/",
+        "authors": [
+            "A Raychowdhury",
+            "BC Paul",
+            "S Bhunia"
+        ],
+        "citations": 82,
+        "year": 2005,
+        "source": "IEEE"
+    },
+    {
+        "title": "A full spectrum of computing-in-memory technologies",
+        "url": "https://www.nature.com/articles/s41928-023-01053-4",
+        "authors": [
+            "Z Sun",
+            "S Kvatinsky",
+            "X Si",
+            "A Mehonic",
+            "Y Cai"
+        ],
+        "citations": 58,
+        "year": 2023,
+        "source": "Nature Electronics"
+    },
+    {
+        "title": "Superconducting computing with alternating logic elements",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9499888/",
+        "authors": [
+            "G Tzimpragos",
+            "J Volk",
+            "A Wynn",
+            "JE Smith"
+        ],
+        "citations": 23,
+        "year": 2021,
+        "source": "IEEE"
+    },
+    {
+        "title": "Seamlessly fused digital-analogue reconfigurable computing using memristors",
+        "url": "https://www.nature.com/articles/s41467-018-04624-8",
+        "authors": [
+            "A Serb",
+            "A Khiat",
+            "T Prodromakis"
+        ],
+        "citations": 58,
+        "year": 2018,
+        "source": "Nature communications"
+    },
+    {
+        "title": "Emerging technology-based design of primitives for hardware security",
+        "url": "https://dl.acm.org/doi/abs/10.1145/2816818?casa_token=PHumYz6mE3MAAAAA:-y7ok7jz9TgXhGrD9OHkCNmA-mTemSPzzAcT1SVrzQ1zacR6WQ-yW7au34hz6rnP26h1MBnVk9s",
+        "authors": [
+            "Y Bi",
+            "K Shamsi",
+            "JS Yuan",
+            "PE Gaillardon"
+        ],
+        "citations": 103,
+        "year": 2016,
+        "source": "ACM Journal on Emerging Technologies in Computing Systems (JETC)"
+    },
+    {
+        "title": "Optics inspired logic architecture",
+        "url": "https://opg.optica.org/abstract.cfm?uri=OE-15-1-150",
+        "authors": [
+            "J Hardy",
+            "J Shamir"
+        ],
+        "citations": 248,
+        "year": 2007,
+        "source": "Optics Express"
+    },
+    {
+        "title": "Device and circuit architectures for in-memory computing",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202000040",
+        "authors": [
+            "D Ielmini",
+            "G Pedretti"
+        ],
+        "citations": 158,
+        "year": 2020,
+        "source": "Advanced Intelligent Systems"
+    },
+    {
+        "title": "Emerging memristor-based logic circuit design approaches: A review",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7548085/",
+        "authors": [
+            "I Vourkas",
+            "GC Sirakoulis"
+        ],
+        "citations": 236,
+        "year": 2016,
+        "source": "IEEE circuits and systems magazine"
+    },
+    {
+        "title": "Exploiting carbon nanotube FET and magnetic tunneling junction for near-memory-computing paradigm",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9366980/",
+        "authors": [
+            "N Yang",
+            "X Wang",
+            "X Lin",
+            "W Zhao"
+        ],
+        "citations": 34,
+        "year": 2021,
+        "source": "IEEE"
+    },
+    {
+        "title": "Boolean logic computing based on neuromorphic transistor",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202305791?casa_token=l4DvWi47xSMAAAAA:_gWB03NEgwyeKBd3Jgif1o4aXuaPNHElxiWW669zNECS0VSLgcrbZmwTeL1rrM7xpakl8VviUB5IlQ",
+        "authors": [
+            "Y Wang",
+            "Q Sun",
+            "J Yu",
+            "N Xu",
+            "Y Wei"
+        ],
+        "citations": 31,
+        "year": 2023,
+        "source": "Advanced Functional Materials"
+    },
+    {
+        "title": "Design and implementation of the MorphoSys reconfigurable computing processor",
+        "url": "https://link.springer.com/article/10.1023/A:1008189221436",
+        "authors": [
+            "MH Lee",
+            "H Singh",
+            "G Lu",
+            "N Bagherzadeh"
+        ],
+        "citations": 223,
+        "year": 2000,
+        "source": "Journal of VLSI signal processing systems for signal, image and video technology"
+    },
+    {
+        "title": "Resistive memory-based in-memory computing: from device and large-scale integration system perspectives",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.201900068",
+        "authors": [
+            "B Yan",
+            "B Li",
+            "X Qiao",
+            "CX Xue",
+            "MF Chang"
+        ],
+        "citations": 81,
+        "year": 2019,
+        "source": "Advanced Intelligent Systems"
+    },
+    {
+        "title": "In-memory stateful logic computing using memristors: gate, calculation, and application",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pssr.202100208?casa_token=redTrdOmTNsAAAAA:YuVBsKuDdF6k3QrJiCPXbAzVMgCcMnVgP-pdFQdYC_aiqi2hfpe12ECGyRxCLB-j3aPWHzfPFgI15w",
+        "authors": [
+            "N Xu",
+            "T Park",
+            "KJ Yoon"
+        ],
+        "citations": 48,
+        "year": 2021,
+        "source": "Rapid Research Letters (RRL)"
+    },
+    {
+        "title": "All-optical photonic crystal logic gates for optical computing: an extensive review",
+        "url": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-59/issue-11/110901/All-optical-photonic-crystal-logic-gates-for-optical-computing/10.1117/1.OE.59.11.110901.short",
+        "authors": [
+            "J Jot Singh",
+            "D Dhawan",
+            "N Gupta"
+        ],
+        "citations": 44,
+        "year": 2020,
+        "source": "Optical Engineering"
+    },
+    {
+        "title": "Leveraging memristive systems in the construction of digital logic circuits",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6058571/",
+        "authors": [
+            "GS Rose",
+            "J Rajendran",
+            "H Manem"
+        ],
+        "citations": 152,
+        "year": 2011,
+        "source": "IEEE"
+    },
+    {
+        "title": "All-optical logic gate computing for high-speed parallel information processing",
+        "url": "https://www.researching.cn/ArticlePdf/m00102/2022/1/9/220010.pdf",
+        "authors": [
+            "S Jiao",
+            "J Liu",
+            "L Zhang",
+            "F Yu",
+            "G Zuo",
+            "J Zhang"
+        ],
+        "citations": 59,
+        "year": 2022,
+        "source": "Opto-Electronic Science"
+    },
+    {
+        "title": "Digital circuit applications of resonant tunneling devices",
+        "url": "https://ieeexplore.ieee.org/abstract/document/663544/",
+        "authors": [
+            "P Mazumder",
+            "S Kulkarni",
+            "M Bhattacharya"
+        ],
+        "citations": 660,
+        "year": 1998,
+        "source": "IEEE"
+    },
+    {
+        "title": "Research progress in architecture and application of RRAM with computing-in-memory",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2023/na/d3na00025g",
+        "authors": [
+            "C Wang",
+            "G Shi",
+            "F Qiao",
+            "R Lin",
+            "S Wu",
+            "Z Hu"
+        ],
+        "citations": 23,
+        "year": 2023,
+        "source": "Nanoscale Advances"
+    },
+    {
+        "title": "Neuro-inspired computing with emerging nonvolatile memorys",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8267253/",
+        "authors": [
+            "S Yu"
+        ],
+        "citations": 1063,
+        "year": 2018,
+        "source": "Proceedings of the IEEE"
+    },
+    {
+        "title": "Probabilistic neural computing with stochastic devices",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202204569",
+        "authors": [
+            "S Misra",
+            "LC Bland",
+            "SG Cardwell"
+        ],
+        "citations": 67,
+        "year": 2023,
+        "source": "Advanced Materials"
+    },
+    {
+        "title": "High-speed low-energy digital optical processors",
+        "url": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-35/issue-2/0000/High-speed-low-energy-digital-optical-processors/10.1117/1.600912.short",
+        "authors": [
+            "PS Guilfoyle",
+            "DS McCallum"
+        ],
+        "citations": 73,
+        "year": 1996,
+        "source": "Optical Engineering"
+    },
+    {
+        "title": "Controlled Optoelectronic Response in van der Waals Heterostructures for In\u2010Sensor Computing",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202207290?casa_token=07z-pO-v8KIAAAAA:Oob7gV4mTyqhNLmyPmPkjrWghU_MV4RJo_g1YYCRRXvxnl2aE7QUQy6xV32vQsfIYBStR3hPwwzXOQ",
+        "authors": [
+            "Q Yang",
+            "ZD Luo",
+            "D Zhang",
+            "M Zhang"
+        ],
+        "citations": 59,
+        "year": 2022,
+        "source": "Advanced Functional Materials"
+    },
+    {
+        "title": "An overview of processing-in-memory circuits for artificial intelligence and machine learning",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9737485/",
+        "authors": [
+            "D Kim",
+            "C Yu",
+            "S Xie",
+            "Y Chen",
+            "JY Kim"
+        ],
+        "citations": 56,
+        "year": 2022,
+        "source": "IEEE"
+    },
+    {
+        "title": "Digital biologically plausible implementation of binarized neural networks with differential hafnium oxide resistive memory arrays",
+        "url": "https://www.frontiersin.org/articles/10.3389/fnins.2019.01383/full",
+        "authors": [
+            "T Hirtzlin",
+            "M Bocquet",
+            "B Penkovsky",
+            "JO Klein"
+        ],
+        "citations": 77,
+        "year": 2020,
+        "source": "Frontiers in Neuroscience"
+    },
+    {
+        "title": "The N3XT approach to energy-efficient abundant-data computing",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8591984/",
+        "authors": [
+            "MMS Aly",
+            "TF Wu",
+            "A Bartolo",
+            "YH Malviya"
+        ],
+        "citations": 148,
+        "year": 2018,
+        "source": "IEEE"
+    },
+    {
+        "title": "The challenges of modern computing and new opportunities for optics",
+        "url": "https://link.springer.com/article/10.1186/s43074-021-00042-0",
+        "authors": [
+            "C Li",
+            "X Zhang",
+            "J Li",
+            "T Fang",
+            "X Dong"
+        ],
+        "citations": 102,
+        "year": 2021,
+        "source": "PhotoniX"
+    },
+    {
+        "title": "Computing beyond moore's law",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7368023/",
+        "authors": [
+            "JM Shalf",
+            "R Leland"
+        ],
+        "citations": 282,
+        "year": 2015,
+        "source": "Computer"
+    },
+    {
+        "title": "Crossbar-based memristive logic-in-memory architecture",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7893787/",
+        "authors": [
+            "G Papandroulidakis",
+            "I Vourkas"
+        ],
+        "citations": 90,
+        "year": 2017,
+        "source": "IEEE"
+    },
+    {
+        "title": "Design of semiconductor QCA systems",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=RkYiAgAAQBAJ&oi=fnd&pg=PR5&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=4wrFMT73Rt&sig=6DzfNtSIEQHB4dxeNoBuKthEeJI",
+        "authors": [
+            "W Liu",
+            "EE Swartzlander Jr",
+            "M O'Neill"
+        ],
+        "citations": 82,
+        "year": 2013,
+        "source": "Artech House"
+    },
+    {
+        "title": "Ten years of building broken chips: The physics and engineering of inexact computing",
+        "url": "https://dl.acm.org/doi/abs/10.1145/2465787.2465789?casa_token=mn029eKbKo0AAAAA:-IAzambRsbXjHIqQ07sIBoRwKTd4Fe2C3_jX3PcVevbx2l4btfrJkPk2g2UBSprzZb1DrJl5byQ",
+        "authors": [
+            "K Palem",
+            "A Lingamneni"
+        ],
+        "citations": 123,
+        "year": 2013,
+        "source": "ACM Transactions on Embedded Computing Systems (TECS)"
+    },
+    {
+        "title": "A novel FPGA architecture based on ultrafine grain reconfigurable logic cells",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6918535/",
+        "authors": [
+            "PE Gaillardon",
+            "X Tang",
+            "G Kim"
+        ],
+        "citations": 47,
+        "year": 2014,
+        "source": "IEEE"
+    },
+    {
+        "title": "Evolution of a designless nanoparticle network into reconfigurable Boolean logic",
+        "url": "https://www.nature.com/articles/nnano.2015.207",
+        "authors": [
+            "SK Bose",
+            "CP Lawrence",
+            "Z Liu",
+            "KS Makarenko"
+        ],
+        "citations": 183,
+        "year": 2015,
+        "source": "Nature Nanotechnology"
+    },
+    {
+        "title": "Programmable nanowire circuits for nanoprocessors",
+        "url": "https://www.nature.com/articles/nature09749",
+        "authors": [
+            "H Yan",
+            "HS Choe",
+            "SW Nam",
+            "Y Hu",
+            "S Das",
+            "JF Klemic"
+        ],
+        "citations": 607,
+        "year": 2011,
+        "source": "Nature"
+    },
+    {
+        "title": "Semi-analytical modeling of high performance nano-scale complementary logic gates utilizing ballistic carbon nanotube transistors",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1386947718308683",
+        "authors": [
+            "MKQ Jooq",
+            "A Mir",
+            "S Mirzakuchaki",
+            "A Farmani"
+        ],
+        "citations": 41,
+        "year": 2018,
+        "source": "Physica E: Low-dimensional Systems and Nanostructures"
+    },
+    {
+        "title": "Perspective on ferroelectric, hafnium oxide based transistors for digital beyond von-Neumann computing",
+        "url": "https://pubs.aip.org/aip/apl/article/118/5/050501/1063171",
+        "authors": [
+            "ET Breyer",
+            "H Mulaosmanovic",
+            "T Mikolajick"
+        ],
+        "citations": 52,
+        "year": 2021,
+        "source": "Applied Physics Letters"
+    },
+    {
+        "title": "Memristive computing devices and applications",
+        "url": "https://link.springer.com/article/10.1007/s10832-017-0103-0",
+        "authors": [
+            "MA Zidan",
+            "A Chen",
+            "G Indiveri",
+            "WD Lu"
+        ],
+        "citations": 60,
+        "year": 2017,
+        "source": "Journal of Electroceramics"
+    },
+    {
+        "title": "Memristor-CMOS hybrid integrated circuits for reconfigurable logic",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/nl901874j",
+        "authors": [
+            "Q Xia",
+            "W Robinett",
+            "MW Cumbie",
+            "N Banerjee"
+        ],
+        "citations": 806,
+        "year": 2009,
+        "source": "Nano Letters"
+    },
+    {
+        "title": "ReRAM-based in-memory computing for search engine and neural network applications",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8681546/",
+        "authors": [
+            "Y Halawani",
+            "B Mohammad",
+            "MA Lebdeh"
+        ],
+        "citations": 58,
+        "year": 2019,
+        "source": "IEEE"
+    },
+    {
+        "title": "High-performance computing for systems of spiking neurons",
+        "url": "https://www.researchgate.net/publication/228776699_High-performance_computing_for_systems_of_spiking_neurons",
+        "authors": [
+            "SB Furber",
+            "S Temple",
+            "AD Brown"
+        ],
+        "citations": 114,
+        "year": 2006,
+        "source": "Proceedings of AISB'06: Adaptation in Artificial and Biological Systems"
+    },
+    {
+        "title": "X-SRAM: Enabling in-memory Boolean computations in CMOS static random access memories",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8401845/",
+        "authors": [
+            "A Agrawal",
+            "A Jaiswal",
+            "C Lee"
+        ],
+        "citations": 330,
+        "year": 2018,
+        "source": "IEEE"
+    },
+    {
+        "title": "Design and evaluation of multiple valued logic gates using pseudo N-type carbon nanotube FETs",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6784480/",
+        "authors": [
+            "J Liang",
+            "L Chen",
+            "J Han"
+        ],
+        "citations": 160,
+        "year": 2014,
+        "source": "IEEE"
+    },
+    {
+        "title": "Transistor-Level Defect Tolerant Digital System Design at the Nanoscale",
+        "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c8524e97fc37c66c03ccbd73a0a0ef94d57ea622",
+        "authors": [
+            "AH El-Maleh",
+            "A Al Yamani",
+            "BM Al Hashimi"
+        ],
+        "citations": 254,
+        "year": 2007,
+        "source": "ResearchGate"
+    },
+    {
+        "title": "A ferroelectric FET-based processing-in-memory architecture for DNN acceleration",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8740886/",
+        "authors": [
+            "Y Long",
+            "D Kim",
+            "E Lee",
+            "P Saha"
+        ],
+        "citations": 77,
+        "year": 2019,
+        "source": "IEEE"
+    },
+    {
+        "title": "SLIM: simultaneous logic-in-memory computing exploiting bilayer analog OxRAM devices",
+        "url": "https://www.nature.com/articles/s41598-020-59121-0",
+        "authors": [
+            "SK Kingra",
+            "V Parmar",
+            "CC Chang",
+            "B Hudec",
+            "TH Hou"
+        ],
+        "citations": 30,
+        "year": 2020,
+        "source": "Nature"
+    },
+    {
+        "title": "Monolithic 3D integration: A path from concept to reality",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7092569/",
+        "authors": [
+            "MM Shulaker",
+            "TF Wu",
+            "MM Sabry",
+            "H Wei"
+        ],
+        "citations": 88,
+        "year": 2015,
+        "source": "Nature"
+    },
+    {
+        "title": "2022 roadmap on neuromorphic computing and engineering",
+        "url": "https://iopscience.iop.org/article/10.1088/2634-4386/ac4a83/meta",
+        "authors": [
+            "DV Christensen",
+            "R Dittmann"
+        ],
+        "citations": 505,
+        "year": 2022,
+        "source": "Neuromorphic Computing and Engineering"
+    },
+    {
+        "title": "Design tools for an emerging SoC technology: Quantum-dot cellular automata",
+        "url": "https://ieeexplore.ieee.org/abstract/document/1652907/",
+        "authors": [
+            "K Walus",
+            "GA Jullien"
+        ],
+        "citations": 280,
+        "year": 2006,
+        "source": "Proceedings of the IEEE"
+    },
+    {
+        "title": "A survey of high-performance interconnection networks in high-performance computer systems",
+        "url": "https://www.mdpi.com/2079-9292/11/9/1369",
+        "authors": [
+            "PJ Lu",
+            "MC Lai",
+            "JS Chang"
+        ],
+        "citations": 20,
+        "year": 2022,
+        "source": "Electronics"
+    },
+    {
+        "title": "Low-power digital VLSI design: circuits and systems",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=0IfkBwAAQBAJ&oi=fnd&pg=PR13&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=gTtuXsj4Wc&sig=QEEq5ogI9gd-64fLBo4NK8M5z-0",
+        "authors": [
+            "A Bellaouar",
+            "M Elmasry"
+        ],
+        "citations": 747,
+        "year": 2012,
+        "source": "Springer"
+    },
+    {
+        "title": "Embedded computing: a VLIW approach to architecture, compilers and tools",
+        "url": "https://books.google.com/books?hl=ru&lr=&id=R5UXl6Jo0XYC&oi=fnd&pg=PP2&dq=Networks+and+equipment+OR+design+of+computer+system+components+OR+digital+electronics+device+(transistors,+logic+gates)+OR+Physical+architecture+of+computers&ots=3Ts5WlG8mf&sig=mThtBNg-iUigVJHlPAHV7yXn4bM",
+        "authors": [
+            "JA Fisher",
+            "P Faraboschi",
+            "C Young"
+        ],
+        "citations": 532,
+        "year": 2004,
+        "source": "Elsevier"
+    },
+    {
+        "title": "Designing logic circuits for probabilistic computation in the presence of noise",
+        "url": "https://dl.acm.org/doi/abs/10.1145/1065579.1065706?casa_token=Jpvtw-xnhosAAAAA:dHcnxM8_vseMBBX7XsCn7XDbGuWyVp4rjOQLxTOWfcnGkjnSPtV5E4-HcgNTXnwMYFmCeav3O_I",
+        "authors": [
+            "K Nepal",
+            "RI Bahar",
+            "J Mundy",
+            "WR Patterson"
+        ],
+        "citations": 111,
+        "year": 2005,
+        "source": "Proceedings of the 42nd annual Design Automation Conference"
+    },
+    {
+        "title": "Reliable systems on unreliable fabrics",
+        "url": "https://ieeexplore.ieee.org/abstract/document/4584456/",
+        "authors": [
+            "T Austin",
+            "V Bertacco",
+            "S Mahlke"
+        ],
+        "citations": 336,
+        "year": 2008,
+        "source": "IEEE"
+    }
+]
